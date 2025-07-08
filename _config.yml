@@ -43,11 +43,11 @@ plugins:
 #jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 #twitter:
 #  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: Erin Ellefsen # jekyll-seo-tag > default author
+author: Andrew Johnson # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: Erin Ellefsen # jekyll-seo-tag > real name
+  name: Andrew Johnson # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://github.com/ellefer
+    - https://github.com/AndrewFromNorthfield
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
