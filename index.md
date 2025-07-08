@@ -1,5 +1,5 @@
 ---
-title: Erin Ellefsen
+title: Long Races Calendar
 feature_text: |
   Welcome!
 feature_image: "https://ellefer.github.io/eellefsen/assets/logos/EE-crop.jpeg"
